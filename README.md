@@ -14,6 +14,13 @@ Unlike Create-React-App, Vite doesnt come by default with Testing Library, Jest 
 
 ## Getting Started
 
+# Install using npm package
+
+   ```bash
+   npm i react-ts-jest-template
+   ```
+
+# Using Template and Cloning this Repo
 Follow these steps to set up a new project based on this template:
 
 1. Click the "Use this template" button on this repository to create a new repository using this template.
