@@ -1,16 +1,16 @@
 
 # React-TypeScript Testing Library and Tailwind CSS Template
-This repository serves as a template for starting React projects with TypeScript, Testing Library, and Tailwind CSS. It provides a basic setup to help you get started quickly and efficiently.
-<br>
+
 Unlike Create-React-App, Vite doesnt come by default with Testing Library, Jest setup with it . So, this repository can help you out in quickly getting started.
 
 
 ## Features
 
-- **React**: A popular JavaScript library for building user interfaces.
-- **TypeScript**: A typed superset of JavaScript that helps catch errors early and improve code quality.
-- **Testing Library**: A testing utility for writing unit and integration tests with a user-centric approach.
-- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+- **[React](https://react.dev)**: A popular JavaScript library for building user interfaces.
+- **[Typescript](https://www.typescriptlang.org/)**: A typed superset of JavaScript that helps catch errors early and improve code quality.
+- **[Jest](https://jestjs.io/)**: A testing utility for writing unit and integration tests with a user-centric approach.
+- **[React-Testing-Library](https://testing-library.com/)**: A testing library for React for writing unit and integration tests with a user-centric approach.
+- **[Tailwind](https://tailwindcss.com/)**: A utility-first CSS framework for rapidly building custom designs.
 
 ## Getting Started
 
@@ -73,4 +73,3 @@ Contributions to improve this template are welcome! If you find any issues or ha
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
