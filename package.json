@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitjimiwal/React-ts-jest-template.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -49,5 +53,8 @@
     "transformIgnorePatterns": [
       "/node_modules/(?!(uuid)/)"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/amitjimiwal/React-ts-jest-template/issues"
   }
 }
